@@ -158,5 +158,30 @@
 
 // Step 21
 
+// let x = 7;
+// let y = 14;
+// let age = (x + y)*2;
+
+// if (age >= 26) {
+//     alert("Get your own health insurance! True!");
+// } else {
+//     alert("Start planning! False!");
+// }
+
+// if (age != (null)) {
+//     alert("Definitely a number!")
+// }
+
 
 // Step 22
+
+// function educationBackground() {
+//     let education = document.getElementById("education").value;
+//     if (education = "Certificate" || "Associates" || "Bachelors" || "Masters") {
+//         alert("You can become a web dev easy peasy!")
+//     }   else {
+//         alert("With enough charisma, dedication, and real-life experience, you can be a web dev!")
+//     }
+// }
+
+// Don't know why step 22 refused to comprehend the string this time around...
